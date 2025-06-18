@@ -3,6 +3,7 @@
 -[Ojas Mhatre] (https://github.com/mhatreojas)  Hell yeah
 -[Hariprasad Duvvuru](https://github.com/Hari0546)  I am learing Git and GitHub!!
 - [SanGiio](https://github.com/SanGiio)
+- Rohan Kumawat
 - [Purandar Sai](https://github.com/Purandhar17) Hello World!!
 - [Abhishek Kumar Paswan](https://github.com/Abhishekkumarpaswan) My first open source contribution on 18/06/2025! 12:40 AM
 - [Matheus Knaul] (https://github.com/matheusknaul) My First open source!!
